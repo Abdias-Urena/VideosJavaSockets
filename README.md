@@ -1,5 +1,5 @@
 
-# Project Java Video Sockets Client-Server
+# Java Video Sockets Client-Server
 
 
 
